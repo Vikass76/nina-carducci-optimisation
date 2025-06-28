@@ -37,7 +37,7 @@
         );
       }
 
-      $(this).fadeIn(500);
+      $(this).show();
     });
   };
   $.fn.mauGallery.defaults = {
